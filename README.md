@@ -1,5 +1,7 @@
 ### Hi 👋
 
-I’m Mark, an independent designer and frontend development consultant. I help businesses build user focused experiences for the web.
+[![Mark Heggan Profile Banner](og_default.webp 'markheggan.co.uk')](https://markheggan.co.uk/)
 
-📫 [Get in touch](https://markheggan.co.uk)
+I partner with solution-driven startups and early-stage founders to create unique, engaging, user-focused web experiences.
+
+📫 [Get In Touch](https://markheggan.co.uk)
